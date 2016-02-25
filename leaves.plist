@@ -106,6 +106,24 @@
 			<string>ethtool 4.2</string>
 		</dict>
 	</dict>
+	<key>Basic</key>
+	<dict>
+		<key>detail</key>
+		<string>How to connetct User tools and Kernel </string>
+		<key>URL</key>
+		<string>https://en.wikipedia.org/wiki/Ethtool</string>
+		<key>bundle</key>
+		<dict>
+			<key>URL</key>
+			<string>https://github.com/gzg1984/APUE/archive/master.zip</string>
+			<key>detail</key>
+			<string>BasicExample</string>
+			<key>file_name</key>
+			<string>APUE-master</string>
+			<key>name</key>
+			<string>Basic Example</string>
+		</dict>
+	</dict>
 	<key>GRUB 2</key>
 	<dict>
 		<key>detail</key>
