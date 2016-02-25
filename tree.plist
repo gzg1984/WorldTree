@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Linux</key>
+	<array>
+		<dict>
+			<key>tool</key>
+			<array>
+				<string>service</string>
+				<string>ethtool</string>
+				<string>ifconfig</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Boot Loader</key>
+			<array>
+				<string>GRUB Legacy </string>
+				<string>GRUB 2</string>
+			</array>
+		</dict>
+		<dict>
+			<key>kernel</key>
+			<array>
+				<string>linux 1.0</string>
+				<string>linux 4.4</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
