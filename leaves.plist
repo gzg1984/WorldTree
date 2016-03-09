@@ -124,6 +124,26 @@
 			<string>Basic Example</string>
 		</dict>
 	</dict>
+	<key>DPDK 2.2</key>
+	<dict>
+		<key>detail</key>
+		<string>DPDK(Data Plane Development Kit) is a set of libraries and drivers for fast packet processing.</string>
+		<key>ImageURL</key>
+		<string>http://www.dpdk.eu/dpdk.png</string>
+		<key>URL</key>
+		<string>http://www.dpdk.eu</string>
+		<key>bundle</key>
+		<dict>
+			<key>URL</key>
+			<string>http://www.dpdk.eu/browse/dpdk/snapshot/dpdk-2.2.0.tar.gz</string>
+			<key>detail</key>
+			<string>DPDK</string>
+			<key>file_name</key>
+			<string>dpdk-2.2.0</string>
+			<key>name</key>
+			<string>Data Plane Development Kit</string>
+		</dict>
+	</dict>
 	<key>GRUB 2</key>
 	<dict>
 		<key>detail</key>
