@@ -137,11 +137,29 @@
 			<key>URL</key>
 			<string>http://www.dpdk.eu/browse/dpdk/snapshot/dpdk-2.2.0.tar.gz</string>
 			<key>detail</key>
-			<string>DPDK</string>
+			<string>Data Plane Development Kit</string>
 			<key>file_name</key>
 			<string>dpdk-2.2.0</string>
 			<key>name</key>
+			<string>DPDK 2.2.0 </string>
+		</dict>
+	</dict>
+	<key>DPDK 2.0</key>
+	<dict>
+		<key>detail</key>
+		<string>DPDK(Data Plane Development Kit) is a set of libraries and drivers for fast packet processing.</string>
+		<key>URL</key>
+		<string>https://downloadcenter.intel.com/zh-cn/download/22777/-DPDK-</string>
+		<key>bundle</key>
+		<dict>
+			<key>URL</key>
+			<string>https://downloadmirror.intel.com/22777/eng/dpdk-2.0.0.tar.gz</string>
+			<key>detail</key>
 			<string>Data Plane Development Kit</string>
+			<key>file_name</key>
+			<string>dpdk-2.0.0</string>
+			<key>name</key>
+			<string>DPDK 2.0.0 </string>
 		</dict>
 	</dict>
 	<key>GRUB 2</key>

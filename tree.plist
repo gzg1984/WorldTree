@@ -25,7 +25,7 @@
 			<array>
 				<string>linux 1.0</string>
 				<string>linux 4.4</string>
-				<string>DPDK 2.2</string>
+				<string>DPDK 2.0</string>
 			</array>
 		</dict>
 	</array>
