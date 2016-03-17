@@ -24,7 +24,7 @@
 			<key>kernel</key>
 			<array>
 				<string>linux 1.0</string>
-				<string>linux 4.4</string>
+				<string>linux 4.5</string>
 				<string>DPDK 2.0</string>
 			</array>
 		</dict>
