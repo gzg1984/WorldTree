@@ -219,7 +219,7 @@
 	<key>linux 4.4</key>
 	<dict>
 		<key>detail</key>
-		<string>latest stable kernel source</string>
+		<string>Stable 4.4 Kernel Source</string>
 		<key>URL</key>
 		<string>https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.tar.gz</string>
 		<key>bundle</key>
@@ -232,6 +232,24 @@
 			<string>linux-4.4</string>
 			<key>name</key>
 			<string>linux-4.4</string>
+		</dict>
+	</dict>
+	<key>linux 4.5</key>
+	<dict>
+		<key>detail</key>
+		<string>latest stable kernel source</string>
+		<key>URL</key>
+		<string>https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.5.tar.gz</string>
+		<key>bundle</key>
+		<dict>
+			<key>URL</key>
+			<string>https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.5.tar.gz</string>
+			<key>detail</key>
+			<string>linux kernel 4.5</string>
+			<key>file_name</key>
+			<string>linux-4.5</string>
+			<key>name</key>
+			<string>linux-4.5</string>
 		</dict>
 	</dict>
 	<key>version</key>
