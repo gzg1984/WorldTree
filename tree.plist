@@ -9,7 +9,6 @@
 			<array>
 				<string>service</string>
 				<string>ethtool</string>
-				<string>ifconfig</string>
 				<string>Basic</string>
 			</array>
 		</dict>
