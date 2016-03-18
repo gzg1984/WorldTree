@@ -122,6 +122,8 @@
 			<string>APUE-master</string>
 			<key>name</key>
 			<string>Basic Example</string>
+			<key>OwnerUUID</key>
+			<string>TheOnly</string>
 		</dict>
 	</dict>
 	<key>DPDK 2.2</key>
