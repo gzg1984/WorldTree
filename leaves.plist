@@ -117,7 +117,7 @@
 			<key>URL</key>
 			<string>https://github.com/gzg1984/APUE/archive/master.zip</string>
 			<key>detail</key>
-			<string>BasicExample</string>
+			<string>Basic System Call Example</string>
 			<key>file_name</key>
 			<string>APUE-master</string>
 			<key>name</key>
