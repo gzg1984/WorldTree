@@ -109,9 +109,9 @@
 	<key>Basic</key>
 	<dict>
 		<key>detail</key>
-		<string>How to connetct User tools and Kernel </string>
+		<string>How to connetct User tools and Kernel.  Have a free comments package for downloading.</string>
 		<key>URL</key>
-		<string>https://en.wikipedia.org/wiki/Ethtool</string>
+		<string>https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=a17236fd-e883-409b-9037-9b81704cc3a7</string>
 		<key>bundle</key>
 		<dict>
 			<key>URL</key>
@@ -124,6 +124,10 @@
 			<string>Basic Example</string>
 			<key>OwnerUUID</key>
 			<string>TheOnly</string>
+			<key>color</key>
+			<string>Orange</string>
+			<key>static</key>
+			<string>No</string>
 		</dict>
 	</dict>
 	<key>DPDK 2.2</key>
