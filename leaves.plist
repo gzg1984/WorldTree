@@ -139,7 +139,7 @@
 			<key>URL</key>
 			<string>https://github.com/gzg1984/pthreads/archive/master.zip</string>
 			<key>detail</key>
-			<string>Basic pthread sample from Gordon</string>
+			<string>Basic pthread sample from Linux Source Project</string>
 			<key>file_name</key>
 			<string>pthread-master</string>
 			<key>name</key>
