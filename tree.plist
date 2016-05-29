@@ -5,11 +5,15 @@
 	<key>Linux</key>
 	<array>
 		<dict>
-			<key>tool</key>
+			<key>LSB</key>
 			<array>
-				<string>service</string>
-				<string>ethtool</string>
-				<string>Basic</string>
+				<string>lsb_release</string>
+				<dict>
+					<key>POSIX</key>
+					<array>
+						<string>pthreads</string>
+					</array>
+				</dict>
 			</array>
 		</dict>
 		<dict>
