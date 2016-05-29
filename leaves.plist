@@ -152,6 +152,20 @@
 			<string>No</string>
 		</dict>
 	</dict>
+	<key>LSB</key>
+	<dict>
+		<key>detail</key>
+		<string>Linux Standard Base</string>
+		<key>URL</key>
+		<string>http://www.linuxfoundation.org/collaborate/workgroups/lsb</string>
+	</dict>
+	<key>POSIX</key>
+	<dict>
+		<key>detail</key>
+		<string>Portable Operating System Interface for UNIX</string>
+		<key>URL</key>
+		<string>http://www.opengroup.org/content/posix®</string>
+	</dict>
 	<key>DPDK 2.2</key>
 	<dict>
 		<key>detail</key>
