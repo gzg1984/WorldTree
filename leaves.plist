@@ -130,6 +130,28 @@
 			<string>No</string>
 		</dict>
 	</dict>
+	<key>pthreads-sample</key>
+	<dict>
+		<key>detail</key>
+		<string>This is pthread sample for pthread functions</string>
+		<key>bundle</key>
+		<dict>
+			<key>URL</key>
+			<string>https://github.com/gzg1984/pthreads/archive/master.zip</string>
+			<key>detail</key>
+			<string>Basic pthread sample from Gordon</string>
+			<key>file_name</key>
+			<string>pthread-master</string>
+			<key>name</key>
+			<string>pthread Example</string>
+			<key>OwnerUUID</key>
+			<string>TheOnly</string>
+			<key>color</key>
+			<string>pink</string>
+			<key>static</key>
+			<string>No</string>
+		</dict>
+	</dict>
 	<key>DPDK 2.2</key>
 	<dict>
 		<key>detail</key>

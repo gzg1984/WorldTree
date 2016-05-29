@@ -11,7 +11,12 @@
 				<dict>
 					<key>POSIX</key>
 					<array>
-						<string>pthreads</string>
+						<dict>
+							<key>pthread</key>
+							<array>
+								<string>pthreads-sample</string>
+							</array>
+						</dict>
 					</array>
 				</dict>
 			</array>
