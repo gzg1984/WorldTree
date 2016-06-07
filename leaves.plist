@@ -158,6 +158,9 @@
 		<string>Linux Standard Base</string>
 		<key>URL</key>
 		<string>http://www.linuxfoundation.org/collaborate/workgroups/lsb</string>
+		<!--common text url http://refspecs.linuxfoundation.org/LSB_5.0.0/LSB-Common/LSB-Common.txt -->
+		<!--core generic http://refspecs.linuxfoundation.org/LSB_5.0.0/LSB-Core-generic/LSB-Core-generic.txt link to ifconfig -->
+		<!--AMD64  http://refspecs.linuxfoundation.org/LSB_5.0.0/LSB-Core-AMD64/LSB-Core-AMD64.txt -->
 	</dict>
 	<key>POSIX</key>
 	<dict>
@@ -165,6 +168,28 @@
 		<string>Portable Operating System Interface for UNIX</string>
 		<key>URL</key>
 		<string>http://www.opengroup.org/content/posix®</string>
+	</dict>
+	<key>UNIX</key>
+	<dict>
+		<key>detail</key>
+		<string>UNIX®</string>
+		<key>URL</key>
+		<string>http://www.opengroup.org/standards/unix</string>
+	</dict>
+	<key>LSB SDK</key>
+	<dict>
+		<key>detail</key>
+		<string>LSB Software Development Kit (SDK)</string>
+		<key>URL</key>
+		<string>http://www.linuxfoundation.org/collaborate/workgroups/lsb/download</string>
+	</dict>
+	<key>FHS</key>
+	<dict>
+		<key>detail</key>
+		<string>Filesystem Hierarchy Standard</string>
+		<key>URL</key>
+		<string>http://refspecs.linuxfoundation.org/fhs.shtml</string>
+		<!--text url http://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.txt -->
 	</dict>
 	<key>DPDK 2.2</key>
 	<dict>
