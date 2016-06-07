@@ -7,10 +7,12 @@
 		<dict>
 			<key>LSB</key>
 			<array>
-				<string>lsb_release</string>
+				<string>FHS</string>
+				<string>LSB SDK</string>
 				<dict>
 					<key>POSIX</key>
 					<array>
+						<string>UNIX</string>
 						<dict>
 							<key>pthread</key>
 							<array>
