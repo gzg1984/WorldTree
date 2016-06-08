@@ -197,10 +197,26 @@
 		<key>URL</key>
 		<string>http://www.linuxfoundation.org/collaborate/workgroups/lsb/download</string>
 	</dict>
+	<key>GNU/Linux</key>
+	<dict>
+		<key>detail</key>
+		<string>GNU/Linux operating system</string>
+		<key>URL</key>
+		<string>http://www.gnu.org/gnu/linux-and-gnu.html</string>
+	</dict>
+	<key>GNU Software</key>
+	<dict>
+		<key>detail</key>
+		<string>GNU is an operation system which is 100% free software.</string>
+		<key>URL</key>
+		<string>http://www.gnu.org/software/software.html</string>
+	</dict>
 	<key>GNU</key>
 	<dict>
 		<key>detail</key>
 		<string>GNU is Not Unix</string>
+		<key>URL</key>
+		<string>http://www.gnu.org</string>
 	</dict>
 	<key>GPL</key>
 	<dict>

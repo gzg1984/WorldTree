@@ -2,41 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Linux</key>
+	<key>GNU/Linux</key>
 	<array>
-		<dict>
-			<key>LSB</key>
-			<array>
-				<string>FHS</string>
-				<string>LSB SDK</string>
-				<dict>
-					<key>POSIX</key>
-					<array>
-						<dict>
-							<key>UNIX</key>
-							<array>
-								<dict>
-									<key>APUE</key>
-									<array>
-										<string>basic</string>
-									</array>
-								</dict>
-							</array>
-						</dict>
-						<dict>
-							<key>pthread</key>
-							<array>
-								<string>pthreads-sample</string>
-							</array>
-						</dict>
-					</array>
-				</dict>
-			</array>
-		</dict>
 		<dict>
 			<key>kernel</key>
 			<array>
-				<string>linux 1.0</string>
+				<dict>
+					<key>Linux</key>
+					<array>
+						<string>linux 1.0</string>
+						<string>linux 4.5</string>
+					</array>
+				</dict>
 				<string>LKML</string>
 				<string>DPDK 2.0</string>
 				<dict>
@@ -46,14 +23,42 @@
 						<string>GRUB 2</string>
 					</array>
 				</dict>
+				<dict>
+					<key>LSB</key>
+					<array>
+						<string>FHS</string>
+						<string>LSB SDK</string>
+						<dict>
+							<key>POSIX</key>
+							<array>
+								<dict>
+									<key>pthread</key>
+									<array>
+										<string>pthreads-sample</string>
+									</array>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
 			</array>
 		</dict>
 		<dict>
 			<key>GNU</key>
 			<array>
 				<string>GPL</string>
-				<string>LGPL</string>
-				<string>GFDL</string>
+				<string>GNU Software</string>
+			</array>
+		</dict>
+		<dict>
+			<key>UNIX</key>
+			<array>
+				<dict>
+					<key>APUE</key>
+					<array>
+						<string>basic</string>
+					</array>
+				</dict>
 			</array>
 		</dict>
 	</array>
