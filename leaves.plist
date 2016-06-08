@@ -106,6 +106,20 @@
 			<string>ethtool 4.2</string>
 		</dict>
 	</dict>
+	<key>APUE</key>
+	<dict>
+		<key>detail</key>
+		<string>Advanced Programming in the UNIX® Environment</string>
+		<key>URL</key>
+		<string>http://www.apuebook.com</string>
+	</dict>
+	<key>LKML</key>
+	<dict>
+		<key>detail</key>
+		<string>Linux Kernel Mailing List</string>
+		<key>URL</key>
+		<string>https://lkml.org</string>
+	</dict>
 	<key>Basic</key>
 	<dict>
 		<key>detail</key>
@@ -182,6 +196,26 @@
 		<string>LSB Software Development Kit (SDK)</string>
 		<key>URL</key>
 		<string>http://www.linuxfoundation.org/collaborate/workgroups/lsb/download</string>
+	</dict>
+	<key>GNU</key>
+	<dict>
+		<key>detail</key>
+		<string>GNU is Not Unix</string>
+	</dict>
+	<key>GPL</key>
+	<dict>
+		<key>detail</key>
+		<string>GNU General Public License</string>
+	</dict>
+	<key>LGPL</key>
+	<dict>
+		<key>detail</key>
+		<string>GNU Library General Public License </string>
+	</dict>
+	<key>GFDL</key>
+	<dict>
+		<key>detail</key>
+		<string>GNU Free Documentation License</string>
 	</dict>
 	<key>FHS</key>
 	<dict>

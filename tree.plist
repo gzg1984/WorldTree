@@ -12,7 +12,17 @@
 				<dict>
 					<key>POSIX</key>
 					<array>
-						<string>UNIX</string>
+						<dict>
+							<key>UNIX</key>
+							<array>
+								<dict>
+									<key>APUE</key>
+									<array>
+										<string>basic</string>
+									</array>
+								</dict>
+							</array>
+						</dict>
 						<dict>
 							<key>pthread</key>
 							<array>
@@ -24,18 +34,26 @@
 			</array>
 		</dict>
 		<dict>
-			<key>Boot Loader</key>
-			<array>
-				<string>GRUB Legacy </string>
-				<string>GRUB 2</string>
-			</array>
-		</dict>
-		<dict>
 			<key>kernel</key>
 			<array>
 				<string>linux 1.0</string>
-				<string>linux 4.5</string>
+				<string>LKML</string>
 				<string>DPDK 2.0</string>
+				<dict>
+					<key>Boot Loader</key>
+					<array>
+						<string>GRUB Legacy </string>
+						<string>GRUB 2</string>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>GNU</key>
+			<array>
+				<string>GPL</string>
+				<string>LGPL</string>
+				<string>GFDL</string>
 			</array>
 		</dict>
 	</array>
