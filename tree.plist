@@ -47,7 +47,13 @@
 			<key>GNU</key>
 			<array>
 				<string>GPL</string>
-				<string>GNU Software</string>
+				<dict>
+					<key>GNU Software</key>
+					<array>
+						<string>make</string>
+						<string>gcc</string>
+					</array>
+				</dict>
 			</array>
 		</dict>
 		<dict>
