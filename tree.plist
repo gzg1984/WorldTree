@@ -46,6 +46,7 @@
 		<dict>
 			<key>GNU</key>
 			<array>
+				<string>GLIBC</string>
 				<string>GPL</string>
 				<dict>
 					<key>GNU Software</key>

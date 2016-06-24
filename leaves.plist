@@ -183,6 +183,30 @@
 		<key>URL</key>
 		<string>http://www.opengroup.org/search/node/posix</string>
 	</dict>
+	<key>GLIBC</key>
+	<dict>
+		<key>detail</key>
+		<string>The GNU C Library (glibc)</string>
+		<key>URL</key>
+		<string>https://www.gnu.org/software/libc/index.html</string>
+		<key>bundle</key>
+		<dict>
+			<key>URL</key>
+			<string>http://ftp.gnu.org/gnu/glibc/glibc-2.23.tar.gz</string>
+			<key>detail</key>
+			<string>2016-02-19: glibc 2.23 released.</string>
+			<key>file_name</key>
+			<string>glibc-2.23</string>
+			<key>name</key>
+			<string>glibc</string>
+			<key>OwnerUUID</key>
+			<string>TheOnly</string>
+			<key>color</key>
+			<string>orange</string>
+			<key>static</key>
+			<string>Yes</string>
+		</dict>
+	</dict>
 	<key>UNIX</key>
 	<dict>
 		<key>detail</key>
