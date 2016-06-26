@@ -363,6 +363,8 @@
 			<string>kernel.org</string>
 			<key>color</key>
 			<string>red</string>
+			<key>OwnerUUID</key>
+			<string>TheOnly</string>
 		</dict>
 	</dict>
 	<key>FAKE linux 2.6.32.67</key>
