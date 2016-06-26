@@ -378,7 +378,7 @@
 			<key>URL</key>
 			<string>http://can.not.download.com/linux-2.6.32.67.bundle.tar.gz</string>
 			<key>detail</key>
-			<string>RHEL6 always use 2.6.32. this is the latest longterm source in 2.6.</string>
+			<string>Please Import [linux 2.6.32.67] in Tree Tab Instead</string>
 			<key>file_name</key>
 			<string>linux-2.6.32.67</string>
 			<key>name</key>
