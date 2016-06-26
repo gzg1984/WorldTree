@@ -346,11 +346,35 @@
 		<key>detail</key>
 		<string>linux kernel 2.6.32.67</string>
 		<key>URL</key>
-		<string></string>
+		<string>https://www.kernel.org/pub/linux/kernel/v2.6/longterm/v2.6.32/linux-2.6.32.67.tar.gz</string>
 		<key>bundle</key>
 		<dict>
 			<key>URL</key>
 			<string>https://www.kernel.org/pub/linux/kernel/v2.6/longterm/v2.6.32/linux-2.6.32.67.tar.gz</string>
+			<key>detail</key>
+			<string>RHEL6 always use 2.6.32. this is the latest longterm source in 2.6.</string>
+			<key>file_name</key>
+			<string>linux-2.6.32.67</string>
+			<key>name</key>
+			<string>2.6.32</string>
+			<key>show_name</key>
+			<string>linux-2.6.32.67</string>
+			<key>source</key>
+			<string>kernel.org</string>
+			<key>color</key>
+			<string>red</string>
+		</dict>
+	</dict>
+	<key>FAKE linux 2.6.32.67</key>
+	<dict>
+		<key>detail</key>
+		<string>Please Import 2.6.32.67 in Tree Tab Instead</string>
+		<key>URL</key>
+		<string>https://www.kernel.org/pub/linux/kernel/v2.6/longterm/v2.6.32/linux-2.6.32.67.tar.gz</string>
+		<key>bundle</key>
+		<dict>
+			<key>URL</key>
+			<string>http://can.not.download.com/linux-2.6.32.67.bundle.tar.gz</string>
 			<key>detail</key>
 			<string>RHEL6 always use 2.6.32. this is the latest longterm source in 2.6.</string>
 			<key>file_name</key>
