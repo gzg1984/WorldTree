@@ -376,7 +376,7 @@
 		<key>bundle</key>
 		<dict>
 			<key>URL</key>
-			<string>http://can.not.download.com/linux-2.6.32.67.bundle.tar.gz</string>
+			<string>http://can.not.download.com/[deleteItIfIamReady]/linux-2.6.32.67.bundle.tar.gz</string>
 			<key>detail</key>
 			<string>Please Import [linux 2.6.32.67] in Tree Tab Instead</string>
 			<key>file_name</key>
