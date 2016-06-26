@@ -28,22 +28,6 @@
 		</dict>
 		<dict>
 			<key>URL</key>
-			<string>https://www.kernel.org/pub/linux/kernel/v2.6/longterm/v2.6.32/linux-2.6.32.67.tar.gz</string>
-			<key>detail</key>
-			<string>RHEL6 always use 2.6.32. this is the latest longterm source in 2.6.</string>
-			<key>file_name</key>
-			<string>linux-2.6.32.67.bundle</string>
-			<key>name</key>
-			<string>2.6.32</string>
-			<key>show_name</key>
-			<string>linux-2.6.32.67</string>
-			<key>source</key>
-			<string>kernel.org</string>
-			<key>color</key>
-			<string>red</string>
-		</dict>
-		<dict>
-			<key>URL</key>
 			<string>https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.1.6.tar.gz</string>
 			<key>detail</key>
 			<string>The latest mainline is 4.3</string>
@@ -344,7 +328,7 @@
 		<key>detail</key>
 		<string>linux kernel 1.0</string>
 		<key>URL</key>
-		<string></string>
+		<string>https://www.kernel.org/pub/linux/kernel/v1.0/linux-1.0.tar.gz</string>
 		<key>bundle</key>
 		<dict>
 			<key>URL</key>
@@ -355,6 +339,30 @@
 			<string>linux</string>
 			<key>name</key>
 			<string>linux-1.0</string>
+		</dict>
+	</dict>
+	<key>linux 2.6.32.67</key>
+	<dict>
+		<key>detail</key>
+		<string>linux kernel 2.6.32.67</string>
+		<key>URL</key>
+		<string></string>
+		<key>bundle</key>
+		<dict>
+			<key>URL</key>
+			<string>https://www.kernel.org/pub/linux/kernel/v2.6/longterm/v2.6.32/linux-2.6.32.67.tar.gz</string>
+			<key>detail</key>
+			<string>RHEL6 always use 2.6.32. this is the latest longterm source in 2.6.</string>
+			<key>file_name</key>
+			<string>linux-2.6.32.67</string>
+			<key>name</key>
+			<string>2.6.32</string>
+			<key>show_name</key>
+			<string>linux-2.6.32.67</string>
+			<key>source</key>
+			<string>kernel.org</string>
+			<key>color</key>
+			<string>red</string>
 		</dict>
 	</dict>
 	<key>linux 4.4</key>
