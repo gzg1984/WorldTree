@@ -12,7 +12,7 @@
 					<array>
 						<string>linux 1.0</string>
 						<string>linux 2.6.32.67</string>
-						<string>linux 4.5</string>
+						<string>linux 4.6.5</string>
 					</array>
 				</dict>
 				<string>LKML</string>
