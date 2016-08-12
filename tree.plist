@@ -41,7 +41,12 @@
 								<dict>
 									<key>netstat</key>
 									<array>
-										<string>nc</string>
+										<dict>
+											<key>nc</key>
+											<array>
+												<string>SocketExample</string>
+											</array>
+										</dict>
 										<string>telnet</string>
 										<string>xinetd</string>
 									</array>

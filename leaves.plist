@@ -477,6 +477,24 @@
 			<string>inetutils-1.9.4</string>
 		</dict>
 	</dict>
+	<key>SocketExample</key>
+	<dict>
+		<key>detail</key>
+		<string>Socket Example</string>
+		<key>URL</key>
+		<string>https://github.com/gzg1984/SocketExample</string>
+		<key>bundle</key>
+		<dict>
+			<key>URL</key>
+			<string>https://github.com/gzg1984/SocketExample/archive/master.zip</string>
+			<key>detail</key>
+			<string>Socket Example</string>
+			<key>file_name</key>
+			<string>SocketExample-master</string>
+			<key>name</key>
+			<string>SocketExample</string>
+		</dict>
+	</dict>
 	<key>xinetd</key>
 	<dict>
 		<key>detail</key>
