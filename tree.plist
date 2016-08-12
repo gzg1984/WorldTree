@@ -38,6 +38,14 @@
 										<string>pthreads-sample</string>
 									</array>
 								</dict>
+								<dict>
+									<key>netstat</key>
+									<array>
+										<string>nc</string>
+										<string>telnet</string>
+										<string>xinetd</string>
+									</array>
+								</dict>
 							</array>
 						</dict>
 					</array>

@@ -445,6 +445,56 @@
 			<string>linux-4.5</string>
 		</dict>
 	</dict>
+	<key>netstat</key>
+	<dict>
+		<key>detail</key>
+		<string>network statistics</string>
+		<key>URL</key>
+		<string>http://netstat.net</string>
+	</dict>
+	<key>nc</key>
+	<dict>
+		<key>detail</key>
+		<string>Netcat is a featured networking utility which reads and writes data across network connections, using the TCP/IP protocol.</string>
+		<key>URL</key>
+		<string>http://netcat.sourceforge.net</string>
+	</dict>
+	<key>telnet</key>
+	<dict>
+		<key>detail</key>
+		<string>The GNU Networking Utilities are the common networking utilities, clients and servers of the GNU Operating System.</string>
+		<key>URL</key>
+		<string>http://directory.fsf.org/wiki/Inetutils</string>
+		<key>bundle</key>
+		<dict>
+			<key>URL</key>
+			<string>https://ftp.gnu.org/gnu/inetutils/inetutils-1.9.4.tar.gz</string>
+			<key>detail</key>
+			<string>telnet</string>
+			<key>file_name</key>
+			<string>inetutils-1.9.4</string>
+			<key>name</key>
+			<string>inetutils-1.9.4</string>
+		</dict>
+	</dict>
+	<key>xinetd</key>
+	<dict>
+		<key>detail</key>
+		<string>xinetd is a secure replacement for inetd</string>
+		<key>URL</key>
+		<string>https://github.com/xinetd-org/xinetd</string>
+		<key>bundle</key>
+		<dict>
+			<key>URL</key>
+			<string>https://github.com/xinetd-org/xinetd/archive/master.zip</string>
+			<key>detail</key>
+			<string>telnet</string>
+			<key>file_name</key>
+			<string>xinetd-master</string>
+			<key>name</key>
+			<string>xinetd-master</string>
+		</dict>
+	</dict>
 	<key>version</key>
 	<string>b1</string>
 </dict>
