@@ -323,10 +323,10 @@
 			<string>net-tool</string>
 		</dict>
 	</dict>
-	<key>linux 1.0</key>
+	<key>Linux 1.0</key>
 	<dict>
 		<key>detail</key>
-		<string>linux kernel 1.0</string>
+		<string>Linux kernel 1.0</string>
 		<key>URL</key>
 		<string>https://www.kernel.org/pub/linux/kernel/v1.0/linux-1.0.tar.gz</string>
 		<key>bundle</key>
